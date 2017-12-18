@@ -2,24 +2,17 @@
   text-align: center;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
+
+.custom-crypto-addon-label {
+  width:30%;
 }
 
-.App-header {
-  background-color: #222;
-  height: 150px;
-  padding: 20px;
-  color: white;
+.custom-crypto-symbol {
+  font-size: 18px
 }
 
-.App-title {
-  font-size: 1.5em;
-}
-
-.App-intro {
-  font-size: large;
+.custom-black-font {
+  color: #555;
 }
 
 @keyframes App-logo-spin {
